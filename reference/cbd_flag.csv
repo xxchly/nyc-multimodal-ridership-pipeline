@@ -1,0 +1,263 @@
+NTA2020,NTAName,is_cbd
+BK0101,Greenpoint,False
+BK0102,Williamsburg,False
+BK0103,South Williamsburg,False
+BK0104,East Williamsburg,False
+BK0201,Brooklyn Heights,False
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,False
+BK0203,Fort Greene,False
+BK0204,Clinton Hill,False
+BK0261,Brooklyn Navy Yard,False
+BK0301,Bedford-Stuyvesant (West),False
+BK0302,Bedford-Stuyvesant (East),False
+BK0401,Bushwick (West),False
+BK0402,Bushwick (East),False
+BK0471,The Evergreens Cemetery,False
+BK0501,Cypress Hills,False
+BK0502,East New York (North),False
+BK0503,East New York-New Lots,False
+BK0504,Spring Creek-Starrett City,False
+BK0505,East New York-City Line,False
+BK0571,Highland Park-Cypress Hills Cemeteries (South),False
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,False
+BK0602,Park Slope,False
+BK0701,Windsor Terrace-South Slope,False
+BK0702,Sunset Park (West),False
+BK0703,Sunset Park (Central),False
+BK0771,Green-Wood Cemetery,False
+BK0801,Prospect Heights,False
+BK0802,Crown Heights (North),False
+BK0891,Lincoln Terrace Park,False
+BK0901,Crown Heights (South),False
+BK0902,Prospect Lefferts Gardens-Wingate,False
+BK1001,Bay Ridge,False
+BK1002,Dyker Heights,False
+BK1061,Fort Hamilton,False
+BK1091,Dyker Beach Park,False
+BK1101,Bensonhurst,False
+BK1102,Bath Beach,False
+BK1103,Gravesend (West),False
+BK1201,Sunset Park (East)-Borough Park (West),False
+BK1202,Borough Park,False
+BK1203,Kensington,False
+BK1204,Mapleton-Midwood (West),False
+BK1301,Gravesend (South),False
+BK1302,Coney Island-Sea Gate,False
+BK1303,Brighton Beach,False
+BK1391,Calvert Vaux Park,False
+BK1401,Flatbush,False
+BK1402,Flatbush (West)-Ditmas Park-Parkville,False
+BK1403,Midwood,False
+BK1501,Gravesend (East)-Homecrest,False
+BK1502,Madison,False
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,False
+BK1601,Ocean Hill,False
+BK1602,Brownsville,False
+BK1701,East Flatbush-Erasmus,False
+BK1702,East Flatbush-Farragut,False
+BK1703,East Flatbush-Rugby,False
+BK1704,East Flatbush-Remsen Village,False
+BK1771,Holy Cross Cemetery,False
+BK1801,Flatlands,False
+BK1802,Marine Park-Mill Basin-Bergen Beach,False
+BK1803,Canarsie,False
+BK1891,Marine Park-Plumb Island,False
+BK1892,McGuire Fields,False
+BK1893,Canarsie Park & Pier,False
+BK5591,Prospect Park,False
+BK5691,Barren Island-Floyd Bennett Field,False
+BK5692,Jamaica Bay (West),False
+BK5693,Shirley Chisholm State Park,False
+BX0101,Mott Haven-Port Morris,False
+BX0102,Melrose,False
+BX0201,Hunts Point,False
+BX0202,Longwood,False
+BX0291,North & South Brother Islands,False
+BX0301,Morrisania,False
+BX0302,Claremont Village-Claremont (East),False
+BX0303,Crotona Park East,False
+BX0391,Crotona Park,False
+BX0401,Concourse-Concourse Village,False
+BX0402,Highbridge,False
+BX0403,Mount Eden-Claremont (West),False
+BX0491,Yankee Stadium-Macombs Dam Park,False
+BX0492,Claremont Park,False
+BX0501,University Heights (South)-Morris Heights,False
+BX0502,Mount Hope,False
+BX0503,Fordham Heights,False
+BX0601,West Farms,False
+BX0602,Tremont,False
+BX0603,Belmont,False
+BX0701,University Heights (North)-Fordham,False
+BX0702,Bedford Park,False
+BX0703,Norwood,False
+BX0801,Kingsbridge Heights-Van Cortlandt Village,False
+BX0802,Kingsbridge-Marble Hill,False
+BX0803,Riverdale-Spuyten Duyvil,False
+BX0901,Soundview-Bruckner-Bronx River,False
+BX0902,Soundview-Clason Point,False
+BX0903,Castle Hill-Unionport,False
+BX0904,Parkchester,False
+BX0991,Soundview Park,False
+BX1001,Westchester Square,False
+BX1002,Throgs Neck-Schuylerville,False
+BX1003,Pelham Bay-Country Club-City Island,False
+BX1004,Co-op City,False
+BX1071,Hart Island,False
+BX1091,Ferry Point Park-St. Raymond Cemetery,False
+BX1101,Pelham Parkway-Van Nest,False
+BX1102,Morris Park,False
+BX1103,Pelham Gardens,False
+BX1104,Allerton,False
+BX1161,Hutchinson Metro Center,False
+BX1201,Williamsbridge-Olinville,False
+BX1202,Eastchester-Edenwald-Baychester,False
+BX1203,Wakefield-Woodlawn,False
+BX1271,Woodlawn Cemetery,False
+BX2691,Van Cortlandt Park,False
+BX2791,Bronx Park,False
+BX2891,Pelham Bay Park,False
+MN0101,Financial District-Battery Park City,True
+MN0102,Tribeca-Civic Center,True
+MN0191,The Battery-Governors Island-Ellis Island-Liberty Island,False
+MN0201,SoHo-Little Italy-Hudson Square,True
+MN0202,Greenwich Village,True
+MN0203,West Village,True
+MN0301,Chinatown-Two Bridges,True
+MN0302,Lower East Side,True
+MN0303,East Village,True
+MN0401,Chelsea-Hudson Yards,True
+MN0402,Hell's Kitchen,True
+MN0501,Midtown South-Flatiron-Union Square,True
+MN0502,Midtown-Times Square,True
+MN0601,Stuyvesant Town-Peter Cooper Village,True
+MN0602,Gramercy,True
+MN0603,Murray Hill-Kips Bay,True
+MN0604,East Midtown-Turtle Bay,True
+MN0661,United Nations,True
+MN0701,Upper West Side-Lincoln Square,False
+MN0702,Upper West Side (Central),False
+MN0703,Upper West Side-Manhattan Valley,False
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,False
+MN0802,Upper East Side-Carnegie Hill,False
+MN0803,Upper East Side-Yorkville,False
+MN0901,Morningside Heights,False
+MN0902,Manhattanville-West Harlem,False
+MN0903,Hamilton Heights-Sugar Hill,False
+MN1001,Harlem (South),False
+MN1002,Harlem (North),False
+MN1101,East Harlem (South),False
+MN1102,East Harlem (North),False
+MN1191,Randall's Island,False
+MN1201,Washington Heights (South),False
+MN1202,Washington Heights (North),False
+MN1203,Inwood,False
+MN1291,Highbridge Park,False
+MN1292,Inwood Hill Park,False
+MN6491,Central Park,False
+QN0101,Astoria (North)-Ditmars-Steinway,False
+QN0102,Old Astoria-Hallets Point,False
+QN0103,Astoria (Central),False
+QN0104,Astoria (East)-Woodside (North),False
+QN0105,Queensbridge-Ravenswood-Dutch Kills,False
+QN0151,Rikers Island,False
+QN0161,Sunnyside Yards (North),False
+QN0171,St. Michael's Cemetery,False
+QN0191,Astoria Park,False
+QN0201,Long Island City-Hunters Point,False
+QN0202,Sunnyside,False
+QN0203,Woodside,False
+QN0261,Sunnyside Yards (South),False
+QN0271,Calvary & Mount Zion Cemeteries,False
+QN0301,Jackson Heights,False
+QN0302,East Elmhurst,False
+QN0303,North Corona,False
+QN0401,Elmhurst,False
+QN0402,Corona,False
+QN0501,Maspeth,False
+QN0502,Ridgewood,False
+QN0503,Glendale,False
+QN0504,Middle Village,False
+QN0571,Mount Olivet & All Faiths Cemeteries,False
+QN0572,Middle Village Cemetery,False
+QN0573,St. John Cemetery,False
+QN0574,Highland Park-Cypress Hills Cemeteries (North),False
+QN0601,Rego Park,False
+QN0602,Forest Hills,False
+QN0701,College Point,False
+QN0702,Whitestone-Beechhurst,False
+QN0703,Bay Terrace-Clearview,False
+QN0704,Murray Hill-Broadway Flushing,False
+QN0705,East Flushing,False
+QN0706,Queensboro Hill,False
+QN0707,Flushing-Willets Point,False
+QN0761,Fort Totten,False
+QN0791,Kissena Park,False
+QN0801,Kew Gardens Hills,False
+QN0802,Pomonok-Electchester-Hillcrest,False
+QN0803,Fresh Meadows-Utopia,False
+QN0804,Jamaica Estates-Holliswood,False
+QN0805,Jamaica Hills-Briarwood,False
+QN0871,Mount Hebron & Cedar Grove Cemeteries,False
+QN0891,Cunningham Park,False
+QN0901,Kew Gardens,False
+QN0902,Richmond Hill,False
+QN0903,South Richmond Hill,False
+QN0904,Ozone Park (North),False
+QN0905,Woodhaven,False
+QN1001,South Ozone Park,False
+QN1002,Ozone Park,False
+QN1003,Howard Beach-Lindenwood,False
+QN1091,Spring Creek Park,False
+QN1101,Auburndale,False
+QN1102,Bayside,False
+QN1103,Douglaston-Little Neck,False
+QN1104,Oakland Gardens-Hollis Hills,False
+QN1191,Alley Pond Park,False
+QN1201,Jamaica,False
+QN1202,South Jamaica,False
+QN1203,Baisley Park,False
+QN1204,Springfield Gardens (North)-Rochdale Village,False
+QN1205,St. Albans,False
+QN1206,Hollis,False
+QN1301,Glen Oaks-Floral Park-New Hyde Park,False
+QN1302,Bellerose,False
+QN1303,Queens Village,False
+QN1304,Cambria Heights,False
+QN1305,Laurelton,False
+QN1306,Springfield Gardens (South)-Brookville,False
+QN1307,Rosedale,False
+QN1371,Montefiore Cemetery,False
+QN1401,Far Rockaway-Bayswater,False
+QN1402,Rockaway Beach-Arverne-Edgemere,False
+QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,False
+QN1491,Rockaway Community Park,False
+QN8081,LaGuardia Airport,False
+QN8191,Flushing Meadows-Corona Park,False
+QN8291,Forest Park,False
+QN8381,John F. Kennedy International Airport,False
+QN8491,Jamaica Bay (East),False
+QN8492,Jacob Riis Park-Fort Tilden-Breezy Point Tip,False
+SI0101,St. George-New Brighton,False
+SI0102,Tompkinsville-Stapleton-Clifton-Fox Hills,False
+SI0103,Rosebank-Shore Acres-Park Hill,False
+SI0104,West New Brighton-Silver Lake-Grymes Hill,False
+SI0105,Westerleigh-Castleton Corners,False
+SI0106,Port Richmond,False
+SI0107,Mariner's Harbor-Arlington-Graniteville,False
+SI0191,Snug Harbor,False
+SI0201,Grasmere-Arrochar-South Beach-Dongan Hills,False
+SI0202,New Dorp-Midland Beach,False
+SI0203,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,False
+SI0204,New Springville-Willowbrook-Bulls Head-Travis,False
+SI0291,Freshkills Park (North),False
+SI0301,Oakwood-Richmondtown,False
+SI0302,Great Kills-Eltingville,False
+SI0303,Arden Heights-Rossville,False
+SI0304,Annadale-Huguenot-Prince's Bay-Woodrow,False
+SI0305,Tottenville-Charleston,False
+SI0391,Freshkills Park (South),False
+SI9561,Fort Wadsworth,False
+SI9591,Hoffman & Swinburne Islands,False
+SI9592,Miller Field,False
+SI9593,Great Kills Park,False

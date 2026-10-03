@@ -1,0 +1,41 @@
+# ---- data: never commit raw inputs or built panels (keep the placeholders) ----
+data/*
+!data/.gitkeep
+!data/README.md
+nta_od_riderships/*
+!nta_od_riderships/.gitkeep
+!nta_od_riderships/README.md
+nta_single_riderships/*
+!nta_single_riderships/.gitkeep
+!nta_single_riderships/README.md
+
+# ---- build intermediates and logs ----
+_build_tmp/
+_sides_staging/
+_tex_build/
+logs/
+*.log
+*.part
+
+# ---- subway GTFS feed (download from MTA, see README) ----
+reference/gtfs_subway_*/
+reference/*.zip.part
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# ---- secrets / local config ----
+.env
+.env.*
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
